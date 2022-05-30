@@ -1,0 +1,18 @@
+# ERROR MESSAGES #
+errormessages:
+  nullParameter:
+    type: 2
+    title: Error
+    content: "There is missing parameter. Please check your request"
+    reason:
+    action:
+
+  generalException:
+    type: 2
+    title: Hata
+    content: "Unknown Error Occured"
+    reason:
+    action:
+
+
+

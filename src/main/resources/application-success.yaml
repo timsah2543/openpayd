@@ -1,0 +1,12 @@
+# SUCCESS MESSAGES #
+# 1 Başarılı Toast mesaj
+# 2 Başarısız Toast mesaj
+# 3 Başarılı Pop-up mesaj
+# 4 Başarısız Pop-up mesaj
+successmessages:
+  success:
+    type: 1
+    title: Success
+    content: The request is responded seccesfully
+    action:
+
